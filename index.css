@@ -1,0 +1,39 @@
+body{
+    margin: 0px 5%;
+}
+
+h1, h2{
+     text-align: center;
+     color: rgb(60, 214, 52);
+     margin-top: 10%;
+}
+h1{
+    background-color: rgba(64, 229, 220, 0.187);
+    border: solid 2px green;
+    border-radius: 25px;
+}
+.ptm, img{
+    border: solid 2px black;
+}
+
+.ptm{
+     width: 90% ;
+     margin: 0px 5%;
+
+}
+.sub-capa img{
+     width: 80%;
+     margin:  15px 10%;
+}
+
+.apres img{
+     width: calc(90% / 2 );
+     margin: 0px 2%;
+     height: 100%;
+    
+}
+p{
+     font-size: larger;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
